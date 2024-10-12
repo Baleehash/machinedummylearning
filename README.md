@@ -4,13 +4,7 @@ Machine Dummy Learning is a simple project that demonstrates the implementation 
 
 ## Directory Structure
 
-machine-dummy-learning/
-│
-├── project/         # Contains the code in .ipynb format
-│   └── example_notebook.ipynb
-│
-├── raw-data/        # Contains raw data used for analysis
-│   └── dataset.csv/xlsx
+machine-dummy-learning/ │ ├── project/ # Contains the code in .ipynb format │ └── example_notebook.ipynb │ ├── raw-data/ # Contains raw data used for analysis │ └── dataset.csv/xlsx
 
 ## Folder Descriptions
 - **project/**  
